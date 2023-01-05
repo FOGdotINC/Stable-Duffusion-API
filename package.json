@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "openai": "^3.1.0"
+  },
+  "name": "dalle2api",
+  "version": "1.0.0",
+  "description": "stable difussion image generation dalleapi",
+  "main": "edit.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mr.worlwide",
+  "license": "ISC"
+}
