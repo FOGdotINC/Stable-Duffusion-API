@@ -1,4 +1,6 @@
 Stable-Diffusion-API
+
+
 Welcome to Image-generation-openai-api, a repository that demonstrates the use of OpenAI API to generate, edit, and manipulate images using JavaScript.
 
 Introduction
